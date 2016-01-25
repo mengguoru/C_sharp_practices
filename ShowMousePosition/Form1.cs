@@ -16,5 +16,10 @@ namespace ShowMousePosition
         {
             InitializeComponent();
         }
+
+        private void Form1_MouseMove(object sender, MouseEventArgs e)
+        {
+            this.label1.Text = "Position:\n("+e.X.ToString()+","+e.Y.ToString()+")";
+        }
     }
 }
