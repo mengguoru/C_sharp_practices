@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowMousePosition", "ShowMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInput", "ConsoleInput\ConsoleInput.csproj", "{2065C8B4-59B9-4ABC-AFDB-2E006B193BC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{FA24FC59-CFB6-47FB-A8F9-53275B9F5FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_Delegate", "testDelegate\test_Delegate.csproj", "{952C4AD1-DE3C-457C-9186-C0021B66EB0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{2065C8B4-59B9-4ABC-AFDB-2E006B193BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2065C8B4-59B9-4ABC-AFDB-2E006B193BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2065C8B4-59B9-4ABC-AFDB-2E006B193BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA24FC59-CFB6-47FB-A8F9-53275B9F5FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA24FC59-CFB6-47FB-A8F9-53275B9F5FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA24FC59-CFB6-47FB-A8F9-53275B9F5FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA24FC59-CFB6-47FB-A8F9-53275B9F5FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952C4AD1-DE3C-457C-9186-C0021B66EB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952C4AD1-DE3C-457C-9186-C0021B66EB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952C4AD1-DE3C-457C-9186-C0021B66EB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952C4AD1-DE3C-457C-9186-C0021B66EB0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
